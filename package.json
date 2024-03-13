@@ -1,0 +1,12 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "I have completed the Day1 coding challenge form 100-Days coding challenge which provided by Sir Asharib Ali on Discord App",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Syed Jalees Akbar from tuesday(7-10) ",
+  "license": "ISC"
+}
